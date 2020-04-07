@@ -23,7 +23,7 @@ nav {font-family: sans-serif;font-size: 10px;}
         - set the font color to #5d4037
 */
 header h1 {
-    font-style: 'Supermercado-One';
+    font-family: 'Supermercado One';
     font-size: 45px;
     color: #5d4037;
 }
